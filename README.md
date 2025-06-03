@@ -9,4 +9,5 @@ Rather than relying on external libraries, this project focuses on implementing 
 - Knapsack Problem: Optimizing item selection to maximize value within weight constraints.
 - Travelling Salesman Problem (TSP): Finding the shortest possible route visiting each city exactly once.
 - Vehicle Routing Problem (VRP): Optimizing delivery routes for multiple vehicles.
-- N-Queen Problem – Placing N queens on an NxN chessboard such that no two queens threaten each other.
+- N-Queen Problem: Placing N queens on an NxN chessboard such that no two queens threaten each other.
+- Image Reconstruction: Replicating a target image from a population of image noises.
